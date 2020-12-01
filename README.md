@@ -2,5 +2,4 @@
 
 ### Python部分
 [SymPy](SymPy.ipynb)
-
 ----------
