@@ -1,6 +1,5 @@
-[rng - 控制随机数生成器](https://ww2.mathworks.cn/help/matlab/ref/rng.html?searchHighlight=rng&s_tid=srchtitle)  
-
-[randn - 正态分布的随机数](https://ww2.mathworks.cn/help/matlab/ref/randn.html?searchHighlight=randn&s_tid=srchtitle#bufqioz-8)  
+* [rng - 控制随机数生成器](https://ww2.mathworks.cn/help/matlab/ref/rng.html?searchHighlight=rng&s_tid=srchtitle)  
+* [randn - 正态分布的随机数](https://ww2.mathworks.cn/help/matlab/ref/randn.html?searchHighlight=randn&s_tid=srchtitle#bufqioz-8)  
 
 mean  
 
