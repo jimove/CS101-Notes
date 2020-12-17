@@ -5,6 +5,7 @@
     - lec7  
     - [lec20 Sym-Algebra](Sym-Algebra.ipynb)  
     - [lec21 Sym-Calculus](Sym-Calculus.ipynb)
+    - [lec24 ml-poly](ml-poly.md)
     - [lec25 ml-stats](ml-stats.md)
 
 
