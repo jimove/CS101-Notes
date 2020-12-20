@@ -7,5 +7,5 @@
     - [lec21 Sym-Calculus](Sym-Calculus.ipynb)
     - [lec24 ml-poly](ml-poly.md)
     - [lec25 ml-stats](ml-stats.md)
-
+    - [lec26 ml-fit](ml-fit.md)
 
