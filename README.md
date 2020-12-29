@@ -2,7 +2,6 @@
 -------
 - Python部分
     - [lec6  Files](Files.ipynb)  
-    - lec7  
     - [lec17 用itertools暴力强解](用itertools暴力强解.md)
     - [lec20 Sym-Algebra](Sym-Algebra.ipynb)  
     - [lec21 Sym-Calculus](Sym-Calculus.ipynb)
