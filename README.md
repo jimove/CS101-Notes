@@ -3,7 +3,7 @@
 - Python部分
     - [lec6  Files](Files.ipynb)  
     - lec7  
-    - [17 用itertools暴力强解]（17 用itertools暴力强解.md)
+    - [17 用itertools暴力强解](17 用itertools暴力强解.md)
     - [lec20 Sym-Algebra](Sym-Algebra.ipynb)  
     - [lec21 Sym-Calculus](Sym-Calculus.ipynb)
     - [lec24 ml-poly](ml-poly.md)
