@@ -12,7 +12,7 @@ for x in itertools.combinations( a,2 ):
 (1, 2) (1, 3) (1, 4) (2, 3) (2, 4) (3, 4)
 ```  
 -----  
-##product: 等于两个for循环
+## product: 等于两个for循环
 ```py
 import itertools
 for x in itertools.product([ 1,2,3,4 ], [ ’g’,’h’,’i’ ]):
